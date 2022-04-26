@@ -1,0 +1,5 @@
+#needs to be install
+notebook
+matplotlib
+pandas
+numpy
