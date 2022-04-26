@@ -13,4 +13,8 @@ conda create --prefix ./env python=3.7 -y
 conda activate ./env 
 '''
 ### Commit the changes - Commit to the staged area and then saved into the repository
-###
+### install the requirements
+### Make a new directory called Research_env
+'''
+mkdir Research_env
+'''
