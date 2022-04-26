@@ -12,4 +12,4 @@ conda create --prefix ./env python=3.7 -y
 '''
 conda activate ./env 
 '''
-
+### Commit the changes - Commit to the staged area and then saved into the repository
